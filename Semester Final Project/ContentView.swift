@@ -9,13 +9,21 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        NavigationView {
+            VStack {
+                Text("Welcome to Choose Your own adventure")
+                    .padding()
+                    .font(.title)
+                    .multilineTextAlignment(.center)
+                NavigationLink("Player Select", destination: PlayerSelect().navigationBarBackButtonHidden())
+                    .padding()
+                    .font(.title2)
+                NavigationLink("How to Play", destination: Directions())
+                    .padding()
+                    .font(.title2)
+            }
         }
-        .padding()
+        .background(.black)
     }
 }
 

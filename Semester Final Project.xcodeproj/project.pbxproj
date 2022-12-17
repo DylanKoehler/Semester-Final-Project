@@ -14,6 +14,23 @@
 		975D74B32948D1D20011E287 /* Semester_Final_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74B22948D1D20011E287 /* Semester_Final_ProjectTests.swift */; };
 		975D74BD2948D1D20011E287 /* Semester_Final_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74BC2948D1D20011E287 /* Semester_Final_ProjectUITests.swift */; };
 		975D74BF2948D1D20011E287 /* Semester_Final_ProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74BE2948D1D20011E287 /* Semester_Final_ProjectUITestsLaunchTests.swift */; };
+		975D74CE2948D4410011E287 /* PlayerSelect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74CD2948D4410011E287 /* PlayerSelect.swift */; };
+		975D74D02948D52B0011E287 /* Instructions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74CF2948D52B0011E287 /* Instructions.swift */; };
+		975D74D2294A2A2D0011E287 /* FirstChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74D1294A2A2D0011E287 /* FirstChoice.swift */; };
+		975D74D4294A2CFF0011E287 /* Cave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74D3294A2CFF0011E287 /* Cave.swift */; };
+		975D74D8294A2D820011E287 /* Merchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74D7294A2D820011E287 /* Merchant.swift */; };
+		975D74E2294BA0F00011E287 /* Cave2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74E1294BA0F00011E287 /* Cave2.swift */; };
+		975D74E4294BF6600011E287 /* BabyLizardFight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74E3294BF6600011E287 /* BabyLizardFight.swift */; };
+		975D74E6294C236F0011E287 /* DefeatedLizard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74E5294C236F0011E287 /* DefeatedLizard.swift */; };
+		975D74E8294C26C30011E287 /* Cave3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74E7294C26C30011E287 /* Cave3.swift */; };
+		975D74EA294C284A0011E287 /* YouLose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74E9294C284A0011E287 /* YouLose.swift */; };
+		975D74EC294CCEFF0011E287 /* PotionMaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74EB294CCEFE0011E287 /* PotionMaster.swift */; };
+		975D74EE294D04CF0011E287 /* PurplePotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74ED294D04CF0011E287 /* PurplePotion.swift */; };
+		975D74F0294D04DF0011E287 /* GreenPotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74EF294D04DF0011E287 /* GreenPotion.swift */; };
+		975D74F2294D61710011E287 /* DefeatedLizard2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74F1294D61710011E287 /* DefeatedLizard2.swift */; };
+		975D74F4294D62AF0011E287 /* DrekiFight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74F3294D62AF0011E287 /* DrekiFight.swift */; };
+		975D74F6294D63F10011E287 /* DefeatedDreki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74F5294D63F10011E287 /* DefeatedDreki.swift */; };
+		975D74F8294D66090011E287 /* Directions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975D74F7294D66090011E287 /* Directions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +61,23 @@
 		975D74B82948D1D20011E287 /* Semester Final ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Semester Final ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		975D74BC2948D1D20011E287 /* Semester_Final_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semester_Final_ProjectUITests.swift; sourceTree = "<group>"; };
 		975D74BE2948D1D20011E287 /* Semester_Final_ProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semester_Final_ProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		975D74CD2948D4410011E287 /* PlayerSelect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerSelect.swift; sourceTree = "<group>"; };
+		975D74CF2948D52B0011E287 /* Instructions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instructions.swift; sourceTree = "<group>"; };
+		975D74D1294A2A2D0011E287 /* FirstChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstChoice.swift; sourceTree = "<group>"; };
+		975D74D3294A2CFF0011E287 /* Cave.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cave.swift; sourceTree = "<group>"; };
+		975D74D7294A2D820011E287 /* Merchant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Merchant.swift; sourceTree = "<group>"; };
+		975D74E1294BA0F00011E287 /* Cave2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cave2.swift; sourceTree = "<group>"; };
+		975D74E3294BF6600011E287 /* BabyLizardFight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BabyLizardFight.swift; sourceTree = "<group>"; };
+		975D74E5294C236F0011E287 /* DefeatedLizard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefeatedLizard.swift; sourceTree = "<group>"; };
+		975D74E7294C26C30011E287 /* Cave3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cave3.swift; sourceTree = "<group>"; };
+		975D74E9294C284A0011E287 /* YouLose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouLose.swift; sourceTree = "<group>"; };
+		975D74EB294CCEFE0011E287 /* PotionMaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PotionMaster.swift; sourceTree = "<group>"; };
+		975D74ED294D04CF0011E287 /* PurplePotion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurplePotion.swift; sourceTree = "<group>"; };
+		975D74EF294D04DF0011E287 /* GreenPotion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenPotion.swift; sourceTree = "<group>"; };
+		975D74F1294D61710011E287 /* DefeatedLizard2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefeatedLizard2.swift; sourceTree = "<group>"; };
+		975D74F3294D62AF0011E287 /* DrekiFight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrekiFight.swift; sourceTree = "<group>"; };
+		975D74F5294D63F10011E287 /* DefeatedDreki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefeatedDreki.swift; sourceTree = "<group>"; };
+		975D74F7294D66090011E287 /* Directions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Directions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +108,20 @@
 		975D74952948D1D00011E287 = {
 			isa = PBXGroup;
 			children = (
+				975D74F1294D61710011E287 /* DefeatedLizard2.swift */,
+				975D74F3294D62AF0011E287 /* DrekiFight.swift */,
+				975D74E5294C236F0011E287 /* DefeatedLizard.swift */,
+				975D74F5294D63F10011E287 /* DefeatedDreki.swift */,
+				975D74E3294BF6600011E287 /* BabyLizardFight.swift */,
+				975D74E9294C284A0011E287 /* YouLose.swift */,
+				975D74D3294A2CFF0011E287 /* Cave.swift */,
+				975D74E1294BA0F00011E287 /* Cave2.swift */,
+				975D74E7294C26C30011E287 /* Cave3.swift */,
+				975D74D1294A2A2D0011E287 /* FirstChoice.swift */,
+				975D74EB294CCEFE0011E287 /* PotionMaster.swift */,
+				975D74ED294D04CF0011E287 /* PurplePotion.swift */,
+				975D74EF294D04DF0011E287 /* GreenPotion.swift */,
+				975D74D7294A2D820011E287 /* Merchant.swift */,
 				975D74A02948D1D00011E287 /* Semester Final Project */,
 				975D74B12948D1D20011E287 /* Semester Final ProjectTests */,
 				975D74BB2948D1D20011E287 /* Semester Final ProjectUITests */,
@@ -96,6 +144,9 @@
 			children = (
 				975D74A12948D1D00011E287 /* Semester_Final_ProjectApp.swift */,
 				975D74A32948D1D00011E287 /* ContentView.swift */,
+				975D74F7294D66090011E287 /* Directions.swift */,
+				975D74CD2948D4410011E287 /* PlayerSelect.swift */,
+				975D74CF2948D52B0011E287 /* Instructions.swift */,
 				975D74A52948D1D20011E287 /* Assets.xcassets */,
 				975D74A72948D1D20011E287 /* Preview Content */,
 			);
@@ -257,7 +308,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				975D74EC294CCEFF0011E287 /* PotionMaster.swift in Sources */,
+				975D74E8294C26C30011E287 /* Cave3.swift in Sources */,
+				975D74D4294A2CFF0011E287 /* Cave.swift in Sources */,
 				975D74A42948D1D00011E287 /* ContentView.swift in Sources */,
+				975D74EA294C284A0011E287 /* YouLose.swift in Sources */,
+				975D74D2294A2A2D0011E287 /* FirstChoice.swift in Sources */,
+				975D74D8294A2D820011E287 /* Merchant.swift in Sources */,
+				975D74E6294C236F0011E287 /* DefeatedLizard.swift in Sources */,
+				975D74EE294D04CF0011E287 /* PurplePotion.swift in Sources */,
+				975D74CE2948D4410011E287 /* PlayerSelect.swift in Sources */,
+				975D74F2294D61710011E287 /* DefeatedLizard2.swift in Sources */,
+				975D74F6294D63F10011E287 /* DefeatedDreki.swift in Sources */,
+				975D74D02948D52B0011E287 /* Instructions.swift in Sources */,
+				975D74F8294D66090011E287 /* Directions.swift in Sources */,
+				975D74F4294D62AF0011E287 /* DrekiFight.swift in Sources */,
+				975D74E2294BA0F00011E287 /* Cave2.swift in Sources */,
+				975D74E4294BF6600011E287 /* BabyLizardFight.swift in Sources */,
+				975D74F0294D04DF0011E287 /* GreenPotion.swift in Sources */,
 				975D74A22948D1D00011E287 /* Semester_Final_ProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
